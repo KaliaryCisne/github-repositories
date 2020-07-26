@@ -17,6 +17,8 @@
     "dev": "webpack --mode=development -w"
   },
   "dependencies": {
-    "@babel/core": "^7.10.5"
+    "@babel/core": "^7.10.5",
+    "@babel/polyfill": "^7.10.4",
+    "axios": "^0.19.2"
   }
 }
